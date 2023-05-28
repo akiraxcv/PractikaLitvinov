@@ -1,0 +1,14 @@
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.exe
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.deps.json
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.runtimeconfig.json
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.runtimeconfig.dev.json
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.dll
+D:\нужное\MEDIASOFT1\MEDIASOFT1\bin\Debug\netcoreapp3.1\MEDIASOFT1.pdb
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.csproj.AssemblyReference.cache
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.AssemblyInfoInputs.cache
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.AssemblyInfo.cs
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.csproj.CoreCompileInputs.cache
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.dll
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.pdb
+D:\нужное\MEDIASOFT1\MEDIASOFT1\obj\Debug\netcoreapp3.1\MEDIASOFT1.genruntimeconfig.cache
