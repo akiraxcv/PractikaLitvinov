@@ -1,0 +1,14 @@
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.exe
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.deps.json
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.runtimeconfig.json
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.runtimeconfig.dev.json
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.dll
+D:\нужное\PractikaLitvinov\1day2task\1day2task\bin\Debug\netcoreapp3.1\1day2task.pdb
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.csproj.AssemblyReference.cache
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.GeneratedMSBuildEditorConfig.editorconfig
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.AssemblyInfoInputs.cache
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.AssemblyInfo.cs
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.csproj.CoreCompileInputs.cache
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.dll
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.pdb
+D:\нужное\PractikaLitvinov\1day2task\1day2task\obj\Debug\netcoreapp3.1\1day2task.genruntimeconfig.cache
