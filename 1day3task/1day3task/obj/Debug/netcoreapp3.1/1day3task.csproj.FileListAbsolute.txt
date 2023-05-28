@@ -1,0 +1,14 @@
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.exe
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.deps.json
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.runtimeconfig.json
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.runtimeconfig.dev.json
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.dll
+C:\Users\valer\source\repos\1day3task\1day3task\bin\Debug\netcoreapp3.1\1day3task.pdb
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.AssemblyInfo.cs
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.dll
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.pdb
+C:\Users\valer\source\repos\1day3task\1day3task\obj\Debug\netcoreapp3.1\1day3task.genruntimeconfig.cache
